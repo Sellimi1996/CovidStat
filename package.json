@@ -2,7 +2,7 @@
   "name": "covid-19-tracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Sellimi1996.github.io/CovidTracker/",
+  
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
@@ -19,8 +19,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+   
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
